@@ -10,7 +10,7 @@ descargarlo e instalarlo desde [nodejs.org](https://nodejs.org/).
 1. Abre tu terminal y navega hasta la ubicación donde deseas clonar el repositorio.
 2. Ejecuta el siguiente comando para clonar el repositorio:
 ```
-git clone https://github.com/bocchikoo/GUIA4-DPSgit
+git clone https://github.com/bocchiko/GUIA4-DPSgit
 ```
 3. Ingresa al directorio del proyecto usando el comando:
 ```
